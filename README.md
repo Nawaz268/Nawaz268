@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/Nawaz268/<Nawaz268>/<Nawaz268>/Welcome.png "Header")]
+[![Header](https://raw.githubusercontent.com/Nawaz268/Nawaz268/main/Welcome.png "Header")]
 <!--
 **Nawaz268/Nawaz268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
